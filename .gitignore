@@ -1,0 +1,33 @@
+# Ignore build outputs
+/build/
+*/build/
+
+# Ignore IDE-specific files
+.idea/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Gradle-related files
+.gradle/
+gradle-cache/
+
+# Ignore local properties
+/local.properties
+
+# Ignore external native build
+.externalNativeBuild/
+.cxx/
+
+# Ignore APKs and other output files
+*.apk
+*.ap_
+*.dex
+
+# Miscellaneous
+*.log
+captures/
+output.json
+
